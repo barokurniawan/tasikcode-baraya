@@ -1,0 +1,5 @@
+docker-compose.yml
+docker/app.dockerfile
+docker/database.dockerfile
+docker/web.dockerfile
+docker/nginx/vhost.conf
